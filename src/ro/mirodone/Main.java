@@ -7,8 +7,11 @@ public class Main {
    // VowelOrConsonant vc = new VowelOrConsonant();
    // vc.checkLetter();
 
-    LeapYear leapYear = new LeapYear();
-    leapYear.checkYear(2018);
+   // LeapYear leapYear = new LeapYear();
+    // leapYear.checkYear(2018);
+
+    Multiplication multiplication = new Multiplication();
+    multiplication.MultiplicationTable(6);
 
 
     }
